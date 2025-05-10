@@ -1,10 +1,9 @@
-Official Web site of Saliya Auto Care
+## Official Web site of Saliya Auto Care
+ Created for the diploma final project (for DSE232F-2023)
 
-## Note
-- Created for the diploma final project (for DSE232F-2023)
 ## Features
 
-- Booking a service for vehicles
+- Booking a carrier service for vehicles
 - Browsing and viewing the products
 - Reading and inserting feedbacks for products
 - Details related to the company
